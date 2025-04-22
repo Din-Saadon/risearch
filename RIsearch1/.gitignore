@@ -5,3 +5,4 @@ __pycache__
 RIsearch.dbg
 *.o
 log.txt
+*.ipynb
